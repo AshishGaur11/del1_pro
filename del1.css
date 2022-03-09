@@ -1,0 +1,46 @@
+
+  .img_pro
+
+  {
+      background-image: url('https://mdbootstrap.com/img/Photos/Others/images/76.jpg');
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+      width: auto;
+      height: 1600px;
+      padding: 25px 25px 25px 25px ;
+      margin: auto;
+      background-attachment: fixed;
+      
+  }
+  #grid
+{
+    background-color: rgb(7, 6, 6) transparent;
+    padding: 30px;
+    margin: 5px;
+    background-attachment: fixed;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.671), 0 6px 20px 0 rgba(0, 0, 0, 0.6);
+    display: grid;
+    border-radius: 20px;
+
+    
+} 
+#frez
+{
+  display: none;
+}
+
+#frez1
+{
+  display: inline;
+}
+#frez2
+{
+  display: none;
+}
+
+hr {
+  border: 0;
+  height: 2px;
+  background-image: linear-gradient(to right, transparent, #CCC, transparent);  
+}
